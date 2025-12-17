@@ -28,7 +28,7 @@
             
             <div class="flex flex-col mt-4">
                <div class="flex items-center gap-3 mb-6">
-                 <div class="w-12 h-12 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold">JD</div>
+                 <img src="https://i.pravatar.cc/150?img=12" alt="John Davis" class="w-12 h-12 rounded-full object-cover" />
                  <div>
                    <div class="text-sm font-bold">John Davis</div>
                    <div class="text-xs text-gray-500">Today's Workout</div>
