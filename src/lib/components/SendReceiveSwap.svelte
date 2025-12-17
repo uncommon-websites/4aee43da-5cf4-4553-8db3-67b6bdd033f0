@@ -12,7 +12,7 @@
     </div>
 
     <!-- Phone Mockups Row -->
-    <div class="flex flex-col md:flex-row justify-center items-end gap-8 md:gap-16 mb-24">
+    <div class="flex flex-col md:flex-row justify-center items-center md:items-end gap-8 md:gap-16 mb-24">
       
       <!-- Phone 1: Training -->
       <div class="flex flex-col items-center">
