@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-12-17T18:03:18.643Z -->
+<!-- Updated: 2025-12-17T18:12:43.238Z -->
 
 # Current Todo List State
 
@@ -20,3 +20,8 @@
 - [x] Create new SocialProof component with logo grid
 - [x] Integrate SocialProof component into homepage
 - [x] Run comprehensive error check and fix all issues
+- [x] Remove FeatureGrid component (Everything you need to coach smarter section)
+- [x] Remove SendReceiveSwap component (Training. Nutrition. Health. All in one platform section)
+- [x] Remove DetailsSection component (Built for coaches who care about details section)
+- [x] Update +page.svelte to remove component imports and usage
+- [x] Run error check to verify changes
