@@ -2,7 +2,7 @@
   import PhoneMockup from './PhoneMockup.svelte';
 </script>
 
-<section class="py-24 px-4 bg-white">
+<section class="hidden md:block py-24 px-4 bg-white">
   <div class="container mx-auto max-w-6xl">
     <div class="mb-16">
       <h2 class="text-4xl md:text-5xl font-bold tracking-tight mb-4">

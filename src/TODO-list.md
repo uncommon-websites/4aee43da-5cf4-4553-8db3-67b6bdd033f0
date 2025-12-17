@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-12-17T18:12:43.238Z -->
+<!-- Updated: 2025-12-17T18:16:00.557Z -->
 
 # Current Todo List State
 
@@ -25,3 +25,6 @@
 - [x] Remove DetailsSection component (Built for coaches who care about details section)
 - [x] Update +page.svelte to remove component imports and usage
 - [x] Run error check to verify changes
+- [x] Remove LatestNews component from the main page
+- [x] Add responsive hiding to OnboardingSection for mobile devices
+- [x] Verify changes work correctly

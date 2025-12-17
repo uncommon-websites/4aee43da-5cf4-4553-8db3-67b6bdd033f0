@@ -4,7 +4,6 @@
   import SocialProof from '$lib/components/SocialProof.svelte';
   import FeatureSections from '$lib/components/FeatureSections.svelte';
   import OnboardingSection from '$lib/components/OnboardingSection.svelte';
-  import LatestNews from '$lib/components/LatestNews.svelte';
   import Testimonials from '$lib/components/Testimonials.svelte';
   import FAQ from '$lib/components/FAQ.svelte';
   import FooterCTA from '$lib/components/FooterCTA.svelte';
@@ -19,7 +18,6 @@
     <SocialProof />
     <FeatureSections />
     <OnboardingSection />
-    <LatestNews />
     <Testimonials />
     <FAQ />
     <FooterCTA />
