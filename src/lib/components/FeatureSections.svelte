@@ -27,7 +27,7 @@
          
          <div class="bg-white rounded-2xl shadow-sm p-4 mb-4">
            <div class="flex items-center gap-3 mb-4">
-             <div class="w-12 h-12 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-lg">SM</div>
+             <img src="https://i.pravatar.cc/150?img=45" alt="Sarah Martinez" class="w-12 h-12 rounded-full object-cover" />
              <div>
                <div class="font-bold">Sarah Martinez</div>
                <div class="text-xs text-gray-500">Active • 12 weeks</div>
