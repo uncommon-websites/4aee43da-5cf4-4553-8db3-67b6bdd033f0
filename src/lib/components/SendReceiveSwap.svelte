@@ -4,7 +4,7 @@
 
 <section class="py-24 px-4 bg-white overflow-hidden">
   <div class="container mx-auto max-w-6xl">
-    <div class="mb-16">
+    <div class="mb-24">
       <h2 class="text-4xl md:text-5xl font-bold tracking-tight mb-4">
         Training. Nutrition. Health.<br />
         All in one platform.
