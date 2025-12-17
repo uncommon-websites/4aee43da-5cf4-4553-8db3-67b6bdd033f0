@@ -55,7 +55,9 @@
                </div>
 
                 <div class="w-full bg-gray-50 rounded-2xl p-4 flex items-center gap-3">
-                 <div class="w-8 h-8 bg-gray-200 rounded-lg"></div>
+                 <div class="w-8 h-8 bg-gray-200 rounded-lg flex items-center justify-center">
+                   <svg class="w-4 h-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 16h10M6 12h.01M18 12h.01M8 12h8"></path></svg>
+                 </div>
                  <div class="flex-1">
                    <div class="text-sm font-bold">Incline Press</div>
                    <div class="text-xs text-gray-500">3 × 12 reps</div>
