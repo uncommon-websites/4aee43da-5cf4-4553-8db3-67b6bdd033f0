@@ -54,7 +54,7 @@
              
              <div class="grid grid-cols-2 gap-3">
                <div class="bg-primary-500 text-white p-3 rounded-2xl aspect-square flex flex-col justify-between">
-                 <div class="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center font-bold text-sm">JD</div>
+                 <img src="https://i.pravatar.cc/150?img=12" alt="John Davis" class="w-8 h-8 rounded-full object-cover ring-2 ring-white/30" />
                  <div>
                    <div class="font-bold text-sm">John Davis</div>
                    <div class="text-xs opacity-80">On track</div>
@@ -62,7 +62,7 @@
                </div>
                
                <div class="bg-gray-900 text-white p-3 rounded-2xl aspect-square flex flex-col justify-between">
-                 <div class="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center font-bold text-sm">SM</div>
+                 <img src="https://i.pravatar.cc/150?img=5" alt="Sarah M." class="w-8 h-8 rounded-full object-cover ring-2 ring-white/30" />
                  <div>
                    <div class="font-bold text-sm">Sarah M.</div>
                    <div class="text-xs opacity-80">Excellent</div>
@@ -70,7 +70,7 @@
                </div>
 
                <div class="bg-primary-600 text-white p-3 rounded-2xl aspect-square flex flex-col justify-between">
-                 <div class="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center font-bold text-sm">MJ</div>
+                 <img src="https://i.pravatar.cc/150?img=33" alt="Mike J." class="w-8 h-8 rounded-full object-cover ring-2 ring-white/30" />
                  <div>
                    <div class="font-bold text-sm">Mike J.</div>
                    <div class="text-xs opacity-80">Active</div>
