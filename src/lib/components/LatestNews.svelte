@@ -14,7 +14,7 @@
            <!-- Illustration -->
            <div class="bg-white rounded-2xl shadow-sm p-4 w-full max-w-xs">
              <div class="flex items-center gap-3 mb-3">
-               <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold">C</div>
+               <img src="https://i.pravatar.cc/150?img=28" alt="Client" class="w-10 h-10 rounded-full object-cover" />
                <div class="flex-1">
                  <div class="h-2 bg-gray-200 rounded w-3/4 mb-1"></div>
                  <div class="h-2 bg-gray-100 rounded w-1/2"></div>

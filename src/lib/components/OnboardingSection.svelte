@@ -100,7 +100,7 @@
         <PhoneMockup screenClass="bg-white flex flex-col">
           <div class="p-6 pt-12 flex-1 relative">
              <div class="flex items-center gap-3 mb-6">
-               <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold">JD</div>
+               <img src="https://i.pravatar.cc/150?img=12" alt="John Davis" class="w-10 h-10 rounded-full object-cover" />
                <div>
                  <div class="font-bold">John's Program</div>
                  <div class="text-xs text-gray-500">Week 4 of 12</div>

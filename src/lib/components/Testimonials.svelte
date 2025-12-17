@@ -54,11 +54,7 @@
       <div class="min-w-[350px] bg-gray-50 p-6 rounded-2xl border border-gray-100 snap-center">
         <div class="flex items-start mb-4">
           <div class="flex items-center gap-3 flex-1">
-            <div class="w-10 h-10 bg-primary-100 rounded-full overflow-hidden flex items-center justify-center">
-               <div class="w-full h-full bg-gradient-to-br from-primary-200 to-primary-400 flex items-center justify-center text-white font-bold">
-                 {t.name.charAt(0)}
-               </div>
-            </div>
+            <img src="https://i.pravatar.cc/150?img={[33, 45, 14, 28, 52, 43][testimonials.indexOf(t)]}" alt={t.name} class="w-10 h-10 rounded-full object-cover" />
             <div>
               <div class="font-bold text-sm">{t.name}</div>
               <div class="text-xs text-gray-500">{t.handle}</div>

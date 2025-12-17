@@ -109,9 +109,9 @@
       <!-- Card 5: Scalable -->
       <Card className="min-h-[320px]">
         <div class="flex justify-center items-center flex-grow -space-x-2">
-           <div class="w-12 h-12 rounded-full bg-primary-300 border-2 border-white"></div>
-           <div class="w-12 h-12 rounded-full bg-primary-400 border-2 border-white"></div>
-           <div class="w-12 h-12 rounded-full bg-primary-500 border-2 border-white"></div>
+           <img src="https://i.pravatar.cc/150?img=33" alt="Client" class="w-12 h-12 rounded-full border-2 border-white object-cover" />
+           <img src="https://i.pravatar.cc/150?img=47" alt="Client" class="w-12 h-12 rounded-full border-2 border-white object-cover" />
+           <img src="https://i.pravatar.cc/150?img=29" alt="Client" class="w-12 h-12 rounded-full border-2 border-white object-cover" />
            <div class="w-12 h-12 rounded-full bg-primary-600 border-2 border-white flex items-center justify-center text-white text-xs font-bold">+24</div>
         </div>
         <div>

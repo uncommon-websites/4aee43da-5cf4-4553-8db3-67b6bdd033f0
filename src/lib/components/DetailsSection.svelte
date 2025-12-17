@@ -22,7 +22,7 @@
           <div class="bg-gray-50 rounded-3xl p-12 mb-8 flex items-center justify-center min-h-[300px]">
             <div class="bg-white p-4 rounded-2xl shadow-sm border border-gray-100 max-w-sm w-full">
               <div class="flex items-center gap-3 mb-3">
-                <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold">SM</div>
+                <img src="https://i.pravatar.cc/150?img=45" alt="Sarah Martinez" class="w-10 h-10 rounded-full object-cover" />
                 <div class="flex-1">
                   <div class="font-bold text-sm">Sarah Martinez</div>
                   <div class="text-xs text-gray-500">Just completed workout</div>

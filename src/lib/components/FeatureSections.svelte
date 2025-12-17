@@ -188,7 +188,7 @@
     <PhoneMockup screenClass="bg-white flex flex-col">
        <div class="p-6 pt-12">
          <div class="flex items-center gap-3 mb-8">
-           <div class="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold">MJ</div>
+           <img src="https://i.pravatar.cc/150?img=14" alt="Mike Johnson" class="w-10 h-10 rounded-full object-cover" />
            <div class="font-bold">Mike Johnson</div>
          </div>
          
