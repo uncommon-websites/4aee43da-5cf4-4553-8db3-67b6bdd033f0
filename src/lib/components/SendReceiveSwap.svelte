@@ -6,146 +6,200 @@
   <div class="container mx-auto max-w-6xl">
     <div class="mb-16">
       <h2 class="text-4xl md:text-5xl font-bold tracking-tight mb-4">
-        Send, receive, swap.<br />
-        All in one place.
+        Training. Nutrition. Health.<br />
+        All in one platform.
       </h2>
     </div>
 
     <!-- Phone Mockups Row -->
     <div class="flex flex-col md:flex-row justify-center items-end gap-8 md:gap-16 mb-24">
       
-      <!-- Phone 1: Send -->
+      <!-- Phone 1: Training -->
       <div class="flex flex-col items-center">
         <div class="relative w-[280px] h-[560px] bg-black rounded-[40px] border-[8px] border-gray-900 shadow-2xl overflow-hidden mb-6">
           <!-- Screen Content -->
-          <div class="w-full h-full bg-black text-white p-6 pt-12 flex flex-col">
+          <div class="w-full h-full bg-white text-gray-900 p-6 pt-12 flex flex-col">
             <div class="flex justify-between items-center mb-6">
-              <span class="text-xs font-medium">9:41</span>
+              <span class="text-xs font-medium text-gray-400">9:41</span>
               <div class="flex gap-1">
-                <div class="w-4 h-2.5 bg-white rounded-sm"></div>
+                <div class="w-4 h-2.5 bg-gray-300 rounded-sm"></div>
               </div>
             </div>
             
-            <div class="flex flex-col items-center mt-4">
-               <div class="w-16 h-16 bg-gray-800 rounded-full mb-4"></div>
-               <div class="text-center mb-8">
-                 <div class="text-sm text-gray-400">Known Address</div>
-                 <div class="text-xs text-gray-500">You watch this wallet</div>
+            <div class="flex flex-col mt-4">
+               <div class="flex items-center gap-3 mb-6">
+                 <div class="w-12 h-12 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold">JD</div>
+                 <div>
+                   <div class="text-sm font-bold">John Davis</div>
+                   <div class="text-xs text-gray-500">Today's Workout</div>
+                 </div>
                </div>
                
-               <div class="w-full bg-gray-900 rounded-2xl p-4 mb-4">
-                 <div class="text-sm font-bold mb-1">Confirm transaction to Vitalik</div>
+               <div class="w-full bg-gray-50 rounded-2xl p-4 mb-3">
+                 <div class="text-xs text-gray-500 mb-1">Upper Body</div>
+                 <div class="text-sm font-bold mb-2">Bench Press</div>
+                 <div class="flex gap-2 text-xs">
+                   <span class="bg-white px-2 py-1 rounded">4 sets</span>
+                   <span class="bg-white px-2 py-1 rounded">8-10 reps</span>
+                 </div>
                </div>
                
-               <div class="w-full flex justify-between text-xs text-gray-400 px-2 mb-2">
-                 <span>Collectibles</span>
-                 <span>ID Required</span>
-               </div>
-               
-               <div class="w-full bg-gray-900 rounded-2xl p-4 flex items-center gap-3 mb-2">
-                 <div class="w-8 h-8 bg-blue-500 rounded-full"></div>
+               <div class="w-full bg-gray-50 rounded-2xl p-4 flex items-center gap-3 mb-3">
+                 <div class="w-8 h-8 bg-primary-500 rounded-lg flex items-center justify-center text-white">
+                   <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                 </div>
                  <div class="flex-1">
-                   <div class="text-sm font-bold">12 DeadFellaz</div>
-                   <div class="text-xs text-gray-400">DeadFellaz</div>
+                   <div class="text-sm font-bold">Completed</div>
+                   <div class="text-xs text-gray-500">185 lbs × 10 reps</div>
                  </div>
                </div>
 
-                <div class="w-full bg-gray-900 rounded-2xl p-4 flex items-center gap-3">
-                 <div class="w-8 h-8 bg-purple-500 rounded-full"></div>
+                <div class="w-full bg-gray-50 rounded-2xl p-4 flex items-center gap-3">
+                 <div class="w-8 h-8 bg-gray-200 rounded-lg"></div>
                  <div class="flex-1">
-                   <div class="text-sm font-bold">Benji Taylor</div>
-                   <div class="text-xs text-gray-400">@benjitaylor</div>
+                   <div class="text-sm font-bold">Incline Press</div>
+                   <div class="text-xs text-gray-500">3 × 12 reps</div>
                  </div>
                </div>
             </div>
             
             <div class="mt-auto">
                <div class="flex justify-between text-xs text-gray-500 mb-2 px-2">
-                 <span>$35.18</span>
-                 <span>Normal <span class="text-green-500">●</span></span>
+                 <span>3 of 6 exercises</span>
+                 <span class="text-primary-500 font-medium">On Track</span>
                </div>
-               <div class="h-1 bg-white rounded-full w-1/3 mx-auto"></div>
+               <div class="h-1 bg-gray-200 rounded-full w-full">
+                 <div class="h-1 bg-primary-500 rounded-full w-1/2"></div>
+               </div>
             </div>
           </div>
         </div>
-        <div class="flex items-center gap-2 text-blue-500 font-medium">
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
-          Send
+        <div class="flex items-center gap-2 text-primary-600 font-medium">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+          Training
         </div>
       </div>
 
-      <!-- Phone 2: Receive (QR Code) -->
+      <!-- Phone 2: Nutrition -->
       <div class="flex flex-col items-center relative -top-8">
         <div class="relative w-[280px] h-[560px] bg-black rounded-[40px] border-[8px] border-gray-900 shadow-2xl overflow-hidden mb-6">
-           <div class="w-full h-full bg-white flex flex-col items-center justify-center p-8">
-             <div class="w-48 h-48 bg-black p-2 rounded-xl mb-8">
-               <div class="w-full h-full bg-white grid grid-cols-6 grid-rows-6 gap-0.5">
-                 <!-- Mock QR Code -->
-                 {#each Array(36) as _, i}
-                   <div class={`bg-black ${Math.random() > 0.5 ? 'opacity-100' : 'opacity-0'}`}></div>
-                 {/each}
+           <div class="w-full h-full bg-white flex flex-col p-6 pt-12">
+             <div class="flex justify-between items-center mb-6">
+               <div class="font-bold text-lg">Nutrition Log</div>
+               <div class="w-8 h-8 bg-gray-100 rounded-full flex items-center justify-center">
+                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
                </div>
              </div>
-             <button class="bg-black text-white px-6 py-3 rounded-full text-sm font-bold w-full">Share Address</button>
+             
+             <div class="space-y-3 mb-6">
+               <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
+                 <div class="w-16 h-16 bg-gradient-to-br from-orange-200 to-orange-300 rounded-lg"></div>
+                 <div class="flex-1">
+                   <div class="text-sm font-bold">Breakfast</div>
+                   <div class="text-xs text-gray-500">520 cal • 8:30 AM</div>
+                 </div>
+               </div>
+               
+               <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
+                 <div class="w-16 h-16 bg-gradient-to-br from-green-200 to-green-300 rounded-lg"></div>
+                 <div class="flex-1">
+                   <div class="text-sm font-bold">Lunch</div>
+                   <div class="text-xs text-gray-500">680 cal • 12:45 PM</div>
+                 </div>
+               </div>
+               
+               <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
+                 <div class="w-16 h-16 bg-gradient-to-br from-blue-200 to-blue-300 rounded-lg"></div>
+                 <div class="flex-1">
+                   <div class="text-sm font-bold">Snack</div>
+                   <div class="text-xs text-gray-500">180 cal • 3:15 PM</div>
+                 </div>
+               </div>
+             </div>
+             
+             <div class="mt-auto bg-primary-50 rounded-2xl p-4">
+               <div class="flex justify-between items-center mb-2">
+                 <span class="text-sm font-bold">Daily Total</span>
+                 <span class="text-sm font-bold">1,380 / 2,200</span>
+               </div>
+               <div class="h-2 bg-white rounded-full overflow-hidden">
+                 <div class="h-2 bg-primary-500 rounded-full" style="width: 63%"></div>
+               </div>
+             </div>
            </div>
         </div>
-        <div class="flex items-center gap-2 text-green-500 font-medium">
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
-          Receive
+        <div class="flex items-center gap-2 text-gray-600 font-medium">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
+          Nutrition
         </div>
       </div>
 
-      <!-- Phone 3: Swap -->
+      <!-- Phone 3: Health Data -->
       <div class="flex flex-col items-center">
         <div class="relative w-[280px] h-[560px] bg-black rounded-[40px] border-[8px] border-gray-900 shadow-2xl overflow-hidden mb-6">
-          <div class="w-full h-full bg-black text-white p-6 pt-12 flex flex-col">
+          <div class="w-full h-full bg-white text-gray-900 p-6 pt-12 flex flex-col">
              <div class="flex justify-between items-center mb-8">
-               <span class="font-bold text-lg">Swap</span>
-               <div class="w-6 h-6 bg-gray-800 rounded-full"></div>
-             </div>
-             
-             <div class="bg-gray-900 rounded-2xl p-4 mb-2 flex justify-between items-center">
-               <div class="flex items-center gap-2">
-                 <div class="w-8 h-8 bg-blue-500 rounded-full"></div>
-                 <div class="font-bold">Ethereum</div>
-               </div>
-               <div class="text-right">
-                 <div class="font-bold">1.393 WETH</div>
+               <span class="font-bold text-lg">Health Data</span>
+               <div class="w-6 h-6 bg-gray-100 rounded-full flex items-center justify-center">
+                 <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
                </div>
              </div>
              
-             <div class="flex justify-center -my-3 relative z-10">
-               <div class="w-8 h-8 bg-black border-4 border-black rounded-full flex items-center justify-center">
-                 <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
+             <div class="bg-gray-50 rounded-2xl p-4 mb-3">
+               <div class="flex items-center gap-3 mb-3">
+                 <div class="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center">
+                   <svg class="w-5 h-5 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                 </div>
+                 <div class="flex-1">
+                   <div class="font-bold text-sm">Blood Work</div>
+                   <div class="text-xs text-gray-500">Updated Jan 15, 2025</div>
+                 </div>
+               </div>
+               <div class="grid grid-cols-2 gap-2 text-xs">
+                 <div class="bg-white p-2 rounded">
+                   <div class="text-gray-500">Testosterone</div>
+                   <div class="font-bold">680 ng/dL</div>
+                 </div>
+                 <div class="bg-white p-2 rounded">
+                   <div class="text-gray-500">Vitamin D</div>
+                   <div class="font-bold">45 ng/mL</div>
+                 </div>
                </div>
              </div>
              
-             <div class="bg-gray-900 rounded-2xl p-4 mt-2 mb-8 flex justify-between items-center">
-                <div class="flex items-center gap-2">
-                 <div class="w-8 h-8 bg-black rounded-full border border-gray-700"></div>
-                 <div class="font-bold">USDC</div>
-               </div>
-               <div class="text-right">
-                 <div class="font-bold">2,535.04</div>
+             <div class="bg-gray-50 rounded-2xl p-4 mb-3">
+               <div class="flex items-center gap-3">
+                 <div class="w-10 h-10 bg-blue-100 rounded-lg flex items-center justify-center">
+                   <svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+                 </div>
+                 <div class="flex-1">
+                   <div class="font-bold text-sm">Body Composition</div>
+                   <div class="text-xs text-gray-500">DEXA Scan - Dec 2024</div>
+                 </div>
                </div>
              </div>
              
-             <div class="text-center mb-8">
-               <div class="text-5xl font-bold mb-2">$20</div>
-               <div class="text-sm text-gray-500">≈ 0.005 ETH <span class="text-gray-700">⇅</span></div>
+             <div class="bg-gray-50 rounded-2xl p-4">
+               <div class="flex items-center gap-3">
+                 <div class="w-10 h-10 bg-green-100 rounded-lg flex items-center justify-center">
+                   <svg class="w-5 h-5 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path></svg>
+                 </div>
+                 <div class="flex-1">
+                   <div class="font-bold text-sm">Sleep & Recovery</div>
+                   <div class="text-xs text-gray-500">7.5 hrs avg</div>
+                 </div>
+               </div>
              </div>
              
-             <div class="grid grid-cols-3 gap-4 text-center font-medium text-xl mt-auto mb-8">
-               <div>1</div><div>2</div><div>3</div>
-               <div>4</div><div>5</div><div>6</div>
-               <div>7</div><div>8</div><div>9</div>
-               <div>.</div><div>0</div><div>←</div>
+             <div class="mt-auto text-center text-xs text-gray-400">
+               <svg class="w-4 h-4 inline mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
+               Encrypted & HIPAA Compliant
              </div>
           </div>
         </div>
-        <div class="flex items-center gap-2 text-gray-500 font-medium">
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path></svg>
-          Swap
+        <div class="flex items-center gap-2 text-gray-600 font-medium">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+          Health
         </div>
       </div>
 
@@ -155,44 +209,44 @@
     <div class="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-12">
       
       <div>
-        <h3 class="text-blue-500 font-bold mb-2 text-sm">Send & Receive</h3>
+        <h3 class="text-primary-600 font-bold mb-2 text-sm">Unified Training Programs</h3>
         <p class="text-gray-500 leading-relaxed text-sm">
-          Flawless essentials. Easily send tokens and collectibles with the fewest taps, or share your wallet address by simply scanning a personalized QR code to receive new assets.
+          Design and deliver personalized training programs with real-time progress tracking. See exactly what your clients are doing, when they're doing it, and how they're performing—all in one place.
         </p>
       </div>
 
       <div>
-        <h3 class="text-blue-500 font-bold mb-2 text-sm">Decentralized Swaps</h3>
+        <h3 class="text-primary-600 font-bold mb-2 text-sm">Photo-Based Nutrition</h3>
         <p class="text-gray-500 leading-relaxed text-sm">
-          Trade thousands of tokens with minimal fees, 24/7. Family ensures optimal prices from various exchanges so you can acquire the tokens you want, whenever you want them.
+          Enhanced accountability through photo logging. Clients snap their meals, you review their nutrition in context. No more guessing what they're actually eating.
         </p>
       </div>
 
       <div>
-        <h3 class="text-blue-500 font-bold mb-2 text-sm">Full NFT Support</h3>
+        <h3 class="text-primary-600 font-bold mb-2 text-sm">Medical Data Integration</h3>
         <p class="text-gray-500 leading-relaxed text-sm">
-          Experience NFTs in their intended format with our full rich media support. Interact with everything, including video, audio, images, and interactive content. The best collectors manage their collections in Family.
+          Securely store and access blood work, DEXA scans, and other health documents. Make informed coaching decisions based on complete client health data, not assumptions.
         </p>
       </div>
 
       <div>
-        <h3 class="text-blue-500 font-bold mb-2 text-sm">WalletConnect Enabled</h3>
+        <h3 class="text-primary-600 font-bold mb-2 text-sm">Video Form Feedback</h3>
         <p class="text-gray-500 leading-relaxed text-sm">
-          Easily access decentralized apps with WalletConnect in Family. Simply pair your wallet with the built-in scanner, and enjoy seamless connectivity to a range of powerful applications across web3.
+          Clients upload exercise videos for precise form analysis. Provide detailed feedback and corrections to ensure safe, effective training even when you're not there in person.
         </p>
       </div>
 
       <div>
-        <h3 class="text-blue-500 font-bold mb-2 text-sm">Self-Custody</h3>
+        <h3 class="text-primary-600 font-bold mb-2 text-sm">Complete Client Context</h3>
         <p class="text-gray-500 leading-relaxed text-sm">
-          Family is committed to delivering robust security with flexibility to suit your preferences. The self-custodial wallet prioritizes your control, giving you direct access to your private keys and sensitive data at all times.
+          Every client interaction is informed by their complete history—training, nutrition, health data, and progress metrics. Coach with confidence knowing you have the full picture.
         </p>
       </div>
 
       <div>
-        <h3 class="text-blue-500 font-bold mb-2 text-sm">Maximum Privacy</h3>
+        <h3 class="text-primary-600 font-bold mb-2 text-sm">Privacy-First Architecture</h3>
         <p class="text-gray-500 leading-relaxed text-sm">
-          Explore web3 on your own terms, with no compromises on privacy or revealing more than you're comfortable with. Family works with or without an email or phone number, letting you choose the experience that's right for you.
+          Built on principles of privacy and trust. Your clients' sensitive health information is protected with enterprise-grade security and HIPAA-compliant infrastructure.
         </p>
       </div>
 

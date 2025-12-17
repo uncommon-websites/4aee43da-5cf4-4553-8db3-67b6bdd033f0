@@ -3,16 +3,20 @@
 
   const faqs = [
     {
-      question: "Is Family safe?",
-      answer: "Family is a self-custodial wallet, meaning you have full control over your funds and private keys. We never have access to your assets. We also undergo regular security audits to ensure the highest level of protection."
+      question: "Is my clients' health data secure?",
+      answer: "Absolutely. Reform uses enterprise-grade, HIPAA-compliant infrastructure to protect sensitive health information. All data is encrypted in transit and at rest. We take privacy and security seriously—it's foundational to everything we build."
     },
     {
-      question: "Can I switch from another wallet?",
-      answer: "Yes! You can easily import your existing wallet using your secret recovery phrase. Family supports importing from MetaMask, Rainbow, Coinbase Wallet, and many others."
+      question: "Can I migrate my existing clients to Reform?",
+      answer: "Yes! We make it easy to bring your existing client data into Reform. Our team can help you migrate from other platforms, or you can start fresh and add clients as you go. There's no lock-in—your data is always yours."
     },
     {
-      question: "What networks does Family support?",
-      answer: "Family is built for Ethereum and supports all Ethereum-based networks (L2s) like Optimism, Arbitrum, Base, Polygon, and more."
+      question: "What platforms does Reform work on?",
+      answer: "Reform works seamlessly across iOS, Android, and web. Build programs on your laptop, check client progress on your phone, and everything syncs in real-time. Your coaching infrastructure goes where you go."
+    },
+    {
+      question: "How does pricing work?",
+      answer: "Reform offers simple, transparent pricing that scales with your practice. Start with a free trial to experience the platform, then choose a plan based on your number of active clients. No hidden fees, cancel anytime."
     }
   ];
 
@@ -40,7 +44,7 @@
               on:click={() => toggle(i)}
             >
               {faq.question}
-              <span class={`transform transition-transform duration-200 ${openIndex === i ? 'rotate-45' : ''} text-orange-500 font-normal text-2xl`}>+</span>
+              <span class={`transform transition-transform duration-200 ${openIndex === i ? 'rotate-45' : ''} text-primary-500 font-normal text-2xl`}>+</span>
             </button>
             {#if openIndex === i}
               <div class="pb-4 text-gray-500 leading-relaxed">
@@ -52,7 +56,7 @@
       </div>
       
       <div class="mt-8">
-        <a href="#" class="text-orange-500 font-bold flex items-center gap-2 hover:gap-3 transition-all">
+        <a href="#" class="text-primary-600 font-bold flex items-center gap-2 hover:gap-3 transition-all">
           See More FAQs 
           <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
         </a>
