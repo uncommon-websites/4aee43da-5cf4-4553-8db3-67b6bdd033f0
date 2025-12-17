@@ -93,7 +93,7 @@
              
              <div class="space-y-3 mb-6">
                <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
-                 <div class="w-16 h-16 bg-gradient-to-br from-orange-200 to-orange-300 rounded-lg"></div>
+                 <img src="/generated/image-healthy-breakfast-plate-with-scrambled-e-1765990945507-0.webp" alt="Breakfast meal" class="w-16 h-16 rounded-lg object-cover" />
                  <div class="flex-1">
                    <div class="text-sm font-bold">Breakfast</div>
                    <div class="text-xs text-gray-500">520 cal • 8:30 AM</div>
@@ -101,7 +101,7 @@
                </div>
                
                <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
-                 <div class="w-16 h-16 bg-gradient-to-br from-green-200 to-green-300 rounded-lg"></div>
+                 <img src="/generated/image-nutritious-lunch-bowl-with-grilled-chick-1765990950747-1.webp" alt="Lunch meal" class="w-16 h-16 rounded-lg object-cover" />
                  <div class="flex-1">
                    <div class="text-sm font-bold">Lunch</div>
                    <div class="text-xs text-gray-500">680 cal • 12:45 PM</div>
@@ -109,7 +109,7 @@
                </div>
                
                <div class="bg-gray-50 rounded-xl p-3 flex items-center gap-3">
-                 <div class="w-16 h-16 bg-gradient-to-br from-blue-200 to-blue-300 rounded-lg"></div>
+                 <img src="/generated/image-healthy-snack-of-greek-yogurt-parfait-wi-1765990954318-2.webp" alt="Snack" class="w-16 h-16 rounded-lg object-cover" />
                  <div class="flex-1">
                    <div class="text-sm font-bold">Snack</div>
                    <div class="text-xs text-gray-500">180 cal • 3:15 PM</div>
