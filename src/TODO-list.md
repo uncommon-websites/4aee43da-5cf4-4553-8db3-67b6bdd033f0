@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-12-17T18:16:00.557Z -->
+<!-- Updated: 2025-12-17T18:23:15.228Z -->
 
 # Current Todo List State
 
@@ -28,3 +28,9 @@
 - [x] Remove LatestNews component from the main page
 - [x] Add responsive hiding to OnboardingSection for mobile devices
 - [x] Verify changes work correctly
+- [x] Update the title to include both training and nutrition programs
+- [x] Update the description to mention both program types
+- [x] Update the features list to include nutrition-related items
+- [x] Update the phone mockup content to show both exercise and nutrition program examples
+- [x] Update the extra slot template library text to be more inclusive
+- [x] Final design system compliance check

@@ -92,11 +92,12 @@
 <FeatureSection
   reverse={true}
   subtitle="Powerful"
-  title="Build programs that adapt to your clients."
-  description="Create personalized training programs with our intuitive program builder. Easily adjust based on real-time feedback, progress data, and client needs."
+  title="Build training and nutrition programs that adapt to your clients."
+  description="Create personalized training and nutrition programs with our intuitive program builder. Easily adjust based on real-time feedback, progress data, and client needs."
   accentColor="text-primary-600"
   features={[
     "Exercise Library",
+    "Nutrition Templates",
     "Program Templates",
     "Quick Adjustments",
     "Progress-Based Scaling"
@@ -113,7 +114,7 @@
          <div class="space-y-3">
            <div class="bg-gray-50 rounded-xl p-3">
              <div class="flex items-center justify-between mb-2">
-               <div class="font-bold text-sm">Day 1: Upper Body</div>
+               <div class="font-bold text-sm">Training: Upper Body</div>
                <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z"></path></svg>
              </div>
              <div class="space-y-1 text-xs text-gray-600">
@@ -134,24 +135,28 @@
            
            <div class="bg-gray-50 rounded-xl p-3">
              <div class="flex items-center justify-between mb-2">
-               <div class="font-bold text-sm">Day 2: Lower Body</div>
+               <div class="font-bold text-sm">Nutrition: High Protein</div>
                <svg class="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z"></path></svg>
              </div>
              <div class="space-y-1 text-xs text-gray-600">
                <div class="flex justify-between">
-                 <span>• Squats</span>
-                 <span>4 × 6-8</span>
+                 <span>• Protein</span>
+                 <span>180g</span>
                </div>
                <div class="flex justify-between">
-                 <span>• Romanian DL</span>
-                 <span>3 × 10</span>
+                 <span>• Carbs</span>
+                 <span>220g</span>
+               </div>
+               <div class="flex justify-between">
+                 <span>• Fats</span>
+                 <span>65g</span>
                </div>
              </div>
            </div>
 
            <div class="bg-primary-50 border-2 border-dashed border-primary-300 rounded-xl p-3 flex items-center justify-center gap-2 text-primary-600">
              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
-             <span class="text-sm font-medium">Add Day</span>
+             <span class="text-sm font-medium">Add Program</span>
            </div>
          </div>
        </div>
@@ -164,8 +169,8 @@
           <svg class="w-5 h-5 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path></svg>
         </div>
         <div>
-          <div class="font-bold text-sm">Template Library</div>
-          <div class="text-xs text-gray-500">Save time with templates</div>
+          <div class="font-bold text-sm">Program Templates</div>
+          <div class="text-xs text-gray-500">Training and nutrition templates</div>
         </div>
      </div>
   </div>
