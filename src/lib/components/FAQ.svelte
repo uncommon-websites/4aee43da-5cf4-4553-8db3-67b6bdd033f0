@@ -8,7 +8,7 @@
     },
     {
       question: "Can I migrate my existing clients to Reform?",
-      answer: "Yes! We make it easy to bring your existing client data into Reform. Our team can help you migrate from other platforms, or you can start fresh and add clients as you go. There's no lock-in—your data is always yours."
+      answer: "Yes! We make it easy to bring your existing client data into Reform. Our team can help you migrate from other platforms, or you can start fresh and add clients as you go. There's no lock-in, your data is always yours."
     },
     {
       question: "What platforms does Reform work on?",

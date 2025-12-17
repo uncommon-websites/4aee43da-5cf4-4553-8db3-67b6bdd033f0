@@ -180,7 +180,7 @@
 <FeatureSection
   subtitle="Connected"
   title="Stay connected with your clients."
-  description="Built-in messaging keeps all communication in context. Review workout feedback, answer nutrition questions, and provide support—all alongside the relevant data."
+  description="Built-in messaging keeps all communication in context. Review workout feedback, answer nutrition questions, and provide support, all alongside the relevant data."
   accentColor="text-primary-600"
   features={[
     "In-App Messaging",

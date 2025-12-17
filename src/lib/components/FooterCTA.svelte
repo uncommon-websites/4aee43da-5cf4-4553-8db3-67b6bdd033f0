@@ -7,7 +7,7 @@
     <div class="max-w-2xl">
       <h2 class="text-5xl md:text-6xl font-bold tracking-tight mb-6">Start coaching smarter today</h2>
       <p class="text-gray-500 text-lg mb-8 max-w-lg">
-        Join coaches who are delivering better results with unified client data. Start your free trial—no credit card required.
+        Join coaches who are delivering better results with unified client data. Start your free trial, no credit card required.
       </p>
       <div class="flex flex-col sm:flex-row gap-4">
         <a href="#" class="inline-flex items-center justify-center gap-2 bg-black text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-all">

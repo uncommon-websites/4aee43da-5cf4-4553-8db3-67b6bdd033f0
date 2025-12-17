@@ -241,7 +241,7 @@
       <div>
         <h3 class="text-primary-600 font-bold mb-2 text-sm">Complete Client Context</h3>
         <p class="text-gray-500 leading-relaxed text-sm">
-          Every client interaction is informed by their complete history—training, nutrition, health data, and progress metrics. Coach with confidence knowing you have the full picture.
+          Every client interaction is informed by their complete history: training, nutrition, health data, and progress metrics. Coach with confidence knowing you have the full picture.
         </p>
       </div>
 

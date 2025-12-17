@@ -63,7 +63,7 @@
         <div class="text-xs text-gray-500 mb-2">Published Dec 8, 2024</div>
         <h3 class="text-xl font-bold mb-3 group-hover:text-primary-600 transition-colors">Building Long-Term Coaching Infrastructure</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Reform isn't just another tracking app—it's infrastructure designed to evolve with modern coaching practices. Discover how we're building for the future of personalized coaching...
+          Reform isn't just another tracking app. It's infrastructure designed to evolve with modern coaching practices. Discover how we're building for the future of personalized coaching...
         </p>
       </a>
 
