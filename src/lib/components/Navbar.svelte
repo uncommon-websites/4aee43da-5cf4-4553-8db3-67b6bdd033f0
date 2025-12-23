@@ -14,14 +14,14 @@
     </a>
     
     <div class="hidden md:flex items-center gap-6">
-      <NavLink>Features</NavLink>
-      <NavLink>For Trainers</NavLink>
-      <NavLink>Pricing</NavLink>
+      <NavLink href="/#features">Features</NavLink>
+      <NavLink href="/#testimonials">Testimonials</NavLink>
+      <NavLink href="/#faq">FAQ</NavLink>
+      <NavLink href="/pricing">Pricing</NavLink>
     </div>
   </div>
 
   <div class="flex items-center gap-4">
-    <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors px-3 py-2">Sign In</a>
-    <a href="#" class="text-sm font-medium text-white bg-black hover:bg-gray-800 transition-colors px-5 py-2.5 rounded-full">Start Free Trial</a>
+    <a href="/get-access" class="text-sm font-medium text-white bg-black hover:bg-gray-800 transition-colors px-5 py-2.5 rounded-full">Get Access</a>
   </div>
 </nav>

@@ -7,17 +7,12 @@
     <div class="max-w-2xl">
       <h2 class="text-5xl md:text-6xl font-bold tracking-tight mb-6">Start coaching smarter today</h2>
       <p class="text-gray-500 text-lg mb-8 max-w-lg">
-        Join coaches who are delivering better results with unified client data. Start your free trial, no credit card required.
+        Join coaches who are delivering better results with unified client data.
       </p>
-      <div class="flex flex-col sm:flex-row gap-4">
-        <a href="#" class="inline-flex items-center justify-center gap-2 bg-black text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-all">
-          Start Free Trial
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
-        </a>
-        <a href="#" class="inline-flex items-center justify-center gap-2 text-gray-600 hover:text-black transition-colors font-medium">
-          Schedule a Demo
-        </a>
-      </div>
+      <a href="/get-access" class="inline-flex items-center justify-center gap-2 bg-black text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-all">
+        Get Access
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+      </a>
     </div>
   </div>
 

@@ -25,26 +25,20 @@
     </div>
     
     <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-gray-900 mb-8 leading-[1.1]">
-      One platform.<br />
-      <span class="bg-gradient-to-r from-primary-600 to-primary-400 bg-clip-text text-transparent">Complete coaching.</span>
+      The coaching OS for<br />
+      <span class="bg-gradient-to-r from-primary-600 to-primary-400 bg-clip-text text-transparent">modern personal trainers.</span>
     </h1>
     
     <p class="text-xl md:text-2xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed font-light">
       Unify training, nutrition, and health data into one powerful platform. Deliver personalized coaching with complete client context.
     </p>
     
-    <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
-      <a href="#" class="group flex items-center gap-2 bg-gray-900 text-white px-10 py-5 rounded-full font-medium hover:bg-gray-800 transition-all hover:scale-105 text-lg">
-        Start Free Trial
+    <div class="flex items-center justify-center mb-16">
+      <a href="/get-access" class="group flex items-center gap-2 bg-gray-900 text-white px-10 py-5 rounded-full font-medium hover:bg-gray-800 transition-all hover:scale-105 text-lg">
+        Get Access
         <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
         </svg>
-      </a>
-      <a href="#" class="group flex items-center gap-3 bg-white text-gray-900 border-2 border-gray-200 px-10 py-5 rounded-full font-medium hover:bg-gray-50 hover:border-gray-300 transition-all hover:scale-105 text-lg">
-        <div class="w-10 h-10 bg-gray-900 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
-          <svg class="w-4 h-4 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-        </div>
-        Watch Demo
       </a>
     </div>
     

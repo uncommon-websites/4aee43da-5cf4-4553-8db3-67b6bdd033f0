@@ -16,10 +16,16 @@
   <main>
     <Hero />
     <SocialProof />
-    <FeatureSections />
+    <div id="features">
+      <FeatureSections />
+    </div>
     <OnboardingSection />
-    <Testimonials />
-    <FAQ />
+    <div id="testimonials">
+      <Testimonials />
+    </div>
+    <div id="faq">
+      <FAQ />
+    </div>
     <FooterCTA />
   </main>
   
